@@ -23,11 +23,11 @@ class Pitch(db.Model):
     posted = db.Column(db.DateTime,default=datetime.utcnow)
     up_vote = db.Column(db.Integer)
     down_vote = db.Column(db.Integer)
-    category_id = db.Column(db.Integer,db.ForeignKey('category.id'))
     user_id = db.Column(db.Integer,db.ForeignKey("users.id"))
 
     def __repr__(self):
       return f'User {self.pitch}'
+
 
 class Comment(db.Model):
     __tablename__='comments'

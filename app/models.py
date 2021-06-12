@@ -26,3 +26,24 @@ class Pitch(db.Model):
 
     def __repr__(self):
       return f'User {self.pitch}'
+
+class Comment(db.Model):
+    __tablename__='comments'
+    id=db.Column(db.Integer,primary_key=True)
+    comment=db.Column(db.String)
+    posted=db.Column(db.DateTime,default=datetime.utcnow)
+    user_id=db.Column(db.Integer,db.ForeignKey("users.id"))
+    pitch_id=db.Column(db.Integer,db.ForeignKey('pitch.id'))
+
+
+    def __repr__(self):
+        return f"Comment ('{self.comment}','{self.user}')"
+
+
+class Votes(db.Model):
+    __tablename__='votes'
+
+    id = db.Column(db. Integer, primary_key=True)
+    vote = db.Column(db.Integer)
+    user_id = db.Column(db.Integer, db.ForeignKey("users.id"))
+    pitch_id = db.Column(db.Integer, db.ForeignKey("pitch.id"))

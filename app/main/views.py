@@ -6,4 +6,4 @@ from . import main
 def index():
     title = "home of pitches"
 
-    return render_template('index.html', title)
+    return render_template('index.html', title= title)

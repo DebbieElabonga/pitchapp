@@ -19,7 +19,7 @@ def login():
         flash('Invalid username or Password')
 
     title = "Pitch login"
-    return render_template('auth/login.html',form = login_form,title=title)
+    return render_template('auth/login.html',login_form = login_form,title=title)
 
 @auth.route('/logout')
 @login_required

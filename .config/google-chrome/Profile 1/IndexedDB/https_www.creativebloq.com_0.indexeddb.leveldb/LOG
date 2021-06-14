@@ -1,0 +1,5 @@
+2021/04/09-08:49:50.670 6de0 Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_www.creativebloq.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/09-09:19:34.446 70a8 Level-0 table #5: started
+2021/04/09-09:19:34.451 70a8 Level-0 table #5: 5437 bytes OK
+2021/04/09-09:19:34.454 70a8 Delete type=0 #3
+2021/04/09-09:19:34.455 70a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

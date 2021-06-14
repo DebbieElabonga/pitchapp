@@ -1,0 +1,90 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/hamisi/Desktop/flask resources/Watchlist
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/forms.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/forms.py
+> git check-ignore -v -z --stdin
+> git config --global user.email
+> git config --global user.name
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show -s --format=%an <%ae> [%ai] 992f48ba8c1e5cb312885eae1ad624921192fb66
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 992f48ba8c1e5cb312885eae1ad624921192fb66
+> git show -s --format=%an <%ae> [%ai] e4c9f546c435c5163d903e9fa63659f506988b82
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z e4c9f546c435c5163d903e9fa63659f506988b82
+> git check-ignore -v -z --stdin
+> git show --textconv :app/error.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/error.py
+> git check-ignore -v -z --stdin
+> git show --textconv :app/main/error.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/main/error.py
+> git cat-file -s de5bba54429272d14e3e88283c39a9825770277a
+> git show --textconv :app/error.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/error.py
+> git show --textconv :app/forms.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/forms.py
+> git show --textconv :app/views.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/views.py
+> git check-ignore -v -z --stdin
+> git show --textconv :app/forms.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/forms.py
+> git show --textconv :app/error.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/error.py
+> git show --textconv :app/main/error.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/main/error.py
+> git cat-file -s de5bba54429272d14e3e88283c39a9825770277a
+> git show --textconv :app/error.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/error.py
+> git show --textconv :app/main/views.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/main/views.py
+> git cat-file -s c159c62210aefc75b916cb4ed8d344359e9f7360
+> git show --textconv :app/main/error.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/main/error.py
+> git cat-file -s de5bba54429272d14e3e88283c39a9825770277a
+> git show --textconv :app/error.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/error.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/views.py
+> git show --textconv :app/main/views.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/main/views.py
+> git cat-file -s c159c62210aefc75b916cb4ed8d344359e9f7360
+> git show --textconv :app/views.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/views.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/models.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/models.py
+> git cat-file -s 4ce6e5900ec1cd319fecfc57968a811b7a4e7de6
+> git show --textconv :app/forms.py
+> git ls-files --stage -- /home/hamisi/Desktop/flask resources/Watchlist/app/forms.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin

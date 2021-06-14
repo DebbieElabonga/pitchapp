@@ -1,0 +1,9 @@
+2021/06/11-11:46:09.252 8d2 Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2021/06/11-11:46:09.252 8d2 Recovering log #601
+2021/06/11-11:46:09.538 8d2 Reusing old log /home/hamisi/.config/google-chrome/Profile 1/Sync Data/LevelDB/000601.log 
+2021/06/11-11:47:00.478 8b4 Level-0 table #605: started
+2021/06/11-11:47:00.507 8b4 Level-0 table #605: 104490 bytes OK
+2021/06/11-11:47:00.513 8b4 Delete type=0 #601
+2021/06/11-14:07:02.708 2642 Level-0 table #607: started
+2021/06/11-14:07:02.737 2642 Level-0 table #607: 114907 bytes OK
+2021/06/11-14:07:02.755 2642 Delete type=0 #604

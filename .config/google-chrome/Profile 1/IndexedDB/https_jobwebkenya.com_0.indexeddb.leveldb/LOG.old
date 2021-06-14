@@ -1,0 +1,15 @@
+2021/05/05-17:22:30.838 1d00 Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_jobwebkenya.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/05-17:22:30.838 1d00 Recovering log #11
+2021/05/05-17:22:30.838 1d00 Reusing old log /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_jobwebkenya.com_0.indexeddb.leveldb/000011.log 
+2021/05/05-17:22:34.233 1d1f Level-0 table #16: started
+2021/05/05-17:22:34.277 1d1f Level-0 table #16: 1751 bytes OK
+2021/05/05-17:22:34.323 1d1f Delete type=0 #11
+2021/05/05-17:22:34.324 1d1f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/05-17:22:34.324 1d1f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 722 : 1
+2021/05/05-17:22:34.324 1d1f Compacting 1@1 + 1@2 files
+2021/05/05-17:22:34.366 1d1f Generated table #17@1: 98 keys, 2209 bytes
+2021/05/05-17:22:34.366 1d1f Compacted 1@1 + 1@2 files => 2209 bytes
+2021/05/05-17:22:34.411 1d1f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/05-17:22:34.412 1d1f Delete type=2 #13
+2021/05/05-17:22:34.412 1d1f Delete type=2 #16
+2021/05/05-17:22:34.412 1df1 Manual compaction at level-1 from '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 722 : 1 .. (end); will stop at (end)

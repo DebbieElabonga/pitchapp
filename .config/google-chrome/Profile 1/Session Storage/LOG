@@ -1,0 +1,24 @@
+2021/06/11-21:15:52.590 3 Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
+2021/06/11-21:15:52.591 3 Recovering log #515
+2021/06/11-21:15:52.806 3 Reusing old log /home/hamisi/.config/google-chrome/Profile 1/Session Storage/000515.log 
+2021/06/11-21:19:45.108 3 Level-0 table #519: started
+2021/06/11-21:19:45.159 3 Level-0 table #519: 24041 bytes OK
+2021/06/11-21:19:45.165 3 Delete type=0 #515
+2021/06/11-21:19:45.165 3 Compacting 4@0 + 1@1 files
+2021/06/11-21:19:45.217 3 Generated table #520@0: 8594 keys, 177513 bytes
+2021/06/11-21:19:45.217 3 Compacted 4@0 + 1@1 files => 177513 bytes
+2021/06/11-21:19:45.221 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/06/11-21:19:45.222 3 Delete type=2 #510
+2021/06/11-21:19:45.222 3 Delete type=2 #516
+2021/06/11-21:19:45.223 3 Delete type=2 #519
+2021/06/11-21:19:45.223 3 Delete type=2 #507
+2021/06/11-21:19:45.223 3 Delete type=2 #513
+2021/06/12-19:19:57.827 12d Level-0 table #522: started
+2021/06/12-19:19:57.873 12d Level-0 table #522: 25465 bytes OK
+2021/06/12-19:19:57.898 12d Delete type=0 #518
+2021/06/13-13:30:12.884 2b2 Level-0 table #524: started
+2021/06/13-13:30:12.891 2b2 Level-0 table #524: 25900 bytes OK
+2021/06/13-13:30:12.896 2b2 Delete type=0 #521
+2021/06/13-19:17:20.848 3ca Level-0 table #526: started
+2021/06/13-19:17:20.871 3ca Level-0 table #526: 24793 bytes OK
+2021/06/13-19:17:20.896 3ca Delete type=0 #523

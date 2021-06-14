@@ -1,0 +1,12 @@
+2021/06/11-21:18:24.289 f21 Reusing MANIFEST /home/hamisi/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/06/11-21:18:24.289 f21 Recovering log #32
+2021/06/11-21:18:24.327 f21 Reusing old log /home/hamisi/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000032.log 
+2021/06/13-15:19:18.485 e7fc Level-0 table #37: started
+2021/06/13-15:19:18.585 e7fc Level-0 table #37: 1847829 bytes OK
+2021/06/13-15:19:18.592 e7fc Delete type=0 #32
+2021/06/13-16:14:42.506 e7fc Compacting 1@1 + 1@2 files
+2021/06/13-16:14:42.613 e7fc Generated table #38@1: 2836 keys, 236020 bytes
+2021/06/13-16:14:42.613 e7fc Compacted 1@1 + 1@2 files => 236020 bytes
+2021/06/13-16:14:42.637 e7fc compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/13-16:14:42.638 e7fc Delete type=2 #37
+2021/06/13-16:14:42.638 e7fc Delete type=2 #34

@@ -1,0 +1,30 @@
+2021/06/05-06:04:38.428 6c5f Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/05-06:04:38.429 6c5f Recovering log #1118
+2021/06/05-06:04:38.450 6c5f Reusing old log /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/001118.log 
+2021/06/05-06:06:18.329 8737 Level-0 table #1131: started
+2021/06/05-06:06:18.395 8737 Level-0 table #1131: 1042398 bytes OK
+2021/06/05-06:06:18.399 8737 Delete type=0 #1118
+2021/06/05-06:06:18.399 8737 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/05-06:06:18.400 8737 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x03\x03\x01'\x002\x008\x000\x00d\x009\x00a\x000\x00e\x000\x00b\x006\x006\x002\x00a\x004\x00a\x003\x007\x009\x008\x00e\x008\x00f\x00b\x000\x00a\x009\x008\x008\x003\x00e\x008\x00_\x003\x00_\x002\x00:\x000\x000' @ 343332 : 0
+2021/06/05-06:06:18.400 8737 Compacting 1@1 + 8@2 files
+2021/06/05-06:06:18.480 8737 Generated table #1132@1: 2245 keys, 2120517 bytes
+2021/06/05-06:06:18.557 8737 Generated table #1133@1: 2079 keys, 2120908 bytes
+2021/06/05-06:06:18.634 8737 Generated table #1134@1: 2084 keys, 2120980 bytes
+2021/06/05-06:06:18.710 8737 Generated table #1135@1: 2070 keys, 2121300 bytes
+2021/06/05-06:06:18.787 8737 Generated table #1136@1: 2178 keys, 2121051 bytes
+2021/06/05-06:06:18.864 8737 Generated table #1137@1: 2141 keys, 2122999 bytes
+2021/06/05-06:06:18.940 8737 Generated table #1138@1: 2132 keys, 2135466 bytes
+2021/06/05-06:06:19.043 8737 Generated table #1139@1: 1597 keys, 2119886 bytes
+2021/06/05-06:06:19.188 8737 Generated table #1140@1: 16916 keys, 635636 bytes
+2021/06/05-06:06:19.188 8737 Compacted 1@1 + 8@2 files => 17618743 bytes
+2021/06/05-06:06:19.214 8737 compacted to: files[ 0 0 9 0 0 0 0 ]
+2021/06/05-06:06:19.215 8737 Delete type=2 #1127
+2021/06/05-06:06:19.215 8737 Delete type=2 #1123
+2021/06/05-06:06:19.215 8737 Delete type=2 #1122
+2021/06/05-06:06:19.215 8737 Delete type=2 #1131
+2021/06/05-06:06:19.215 8737 Delete type=2 #1128
+2021/06/05-06:06:19.215 8737 Delete type=2 #1124
+2021/06/05-06:06:19.215 8737 Delete type=2 #1125
+2021/06/05-06:06:19.215 8737 Delete type=2 #1121
+2021/06/05-06:06:19.215 8737 Delete type=2 #1126
+2021/06/05-06:06:19.218 8737 Manual compaction at level-1 from '\x00\x04\x03\x03\x01'\x002\x008\x000\x00d\x009\x00a\x000\x00e\x000\x00b\x006\x006\x002\x00a\x004\x00a\x003\x007\x009\x008\x00e\x008\x00f\x00b\x000\x00a\x009\x008\x008\x003\x00e\x008\x00_\x003\x00_\x002\x00:\x000\x000' @ 343332 : 0 .. (end); will stop at (end)

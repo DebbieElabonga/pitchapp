@@ -1,0 +1,33 @@
+{
+   "description": "",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApSGY0k3FCdj2+pAsc0tWszinVRQ8R8Q6rTJLscI6khTh9UszuPoO/k8xdlOnjekUqRuh0UvSk3jtm6L4NcgJ4T/RmbpKApM3r13itUDV3ZUZ1vdshj6WAyY16bqZcnWVk4wJ1KR5ZTxOR0S+XNQZEudw+fyvxOi92LG+hh1geJmTo9ufJ5Gl231j+jVy334uJhXn41JDM7KzfuHyLopX7bUj7Y5j8vQVw0W3K7FSibwqRW5GTC0C9A3ARm7vur9ZoPMy1RZ5KFFyz/oN9XK9IHXsbRvc47QCDRc6tumvPSK2JKgFWpjvXdUwcE5wtzdvnkkhQUAYkj9w8O+rZQHCbwIDAQAB",
+   "manifest_version": 2,
+   "name": "Black purple shards",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 152, 27, 255 ],
+         "button_background": [ 154, 26, 255, 1 ],
+         "frame": [ 66, 116, 201 ],
+         "ntp_background": [ 0, 2, 2 ],
+         "ntp_text": [ 152, 27, 255 ],
+         "tab_background_text": [ 152, 27, 255 ],
+         "tab_text": [ 152, 27, 255 ],
+         "toolbar": [ 23, 23, 23 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0.76, 1, 0.55 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2"
+}

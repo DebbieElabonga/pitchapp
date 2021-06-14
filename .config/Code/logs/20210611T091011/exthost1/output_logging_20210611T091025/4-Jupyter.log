@@ -1,0 +1,15 @@
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-06-11 09:10:25: ZMQ install verified.
+Info 2021-06-11 09:10:26: id is a292357d-27cf-4947-814d-f92201e2a35c
+Info 2021-06-11 09:10:27: Found existing keyfile at /home/hamisi/.config/Code/User/globalStorage/ms-toolsai.jupyter/nbsecret
+Info 2021-06-11 09:10:29: Search all interpreters /home/hamisi/Desktop/Watchlist/virtual/bin/python, /bin/python2, /bin/python3, /usr/bin/python2, /usr/bin/python3
+Info 2021-06-11 09:10:33: Process Execution: > ~/Desktop/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> ~/Desktop/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+Info 2021-06-11 09:10:33: Process Execution: > ~/Desktop/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> ~/Desktop/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+Info 2021-06-11 09:10:33: Process Execution: > ~/Desktop/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+> ~/Desktop/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list

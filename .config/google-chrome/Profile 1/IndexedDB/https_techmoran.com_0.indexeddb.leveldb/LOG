@@ -1,0 +1,18 @@
+2021/05/25-11:31:11.316 3a20 Creating DB /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_techmoran.com_0.indexeddb.leveldb since it was missing.
+2021/05/25-11:31:11.333 3a20 Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_techmoran.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/25-11:31:40.749 3a5e Level-0 table #5: started
+2021/05/25-11:31:40.752 3a5e Level-0 table #5: 567 bytes OK
+2021/05/25-11:31:40.756 3a5e Delete type=0 #3
+2021/05/25-11:31:40.756 3a5e Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/25-11:31:42.755 3a20 Level-0 table #7: started
+2021/05/25-11:31:42.758 3a20 Level-0 table #7: 237 bytes OK
+2021/05/25-11:31:42.762 3a20 Delete type=0 #4
+2021/05/25-11:31:42.763 3a20 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/25-11:31:42.763 3a20 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0
+2021/05/25-11:31:42.763 3a20 Compacting 1@1 + 1@2 files
+2021/05/25-11:31:42.766 3a20 Generated table #8@1: 5 keys, 237 bytes
+2021/05/25-11:31:42.766 3a20 Compacted 1@1 + 1@2 files => 237 bytes
+2021/05/25-11:31:42.770 3a20 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/25-11:31:42.771 3a20 Delete type=2 #5
+2021/05/25-11:31:42.771 3a20 Delete type=2 #7
+2021/05/25-11:31:42.771 3a20 Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0 .. (end); will stop at (end)

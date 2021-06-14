@@ -1,0 +1,1 @@
+[2021-06-11 13:23:46.914] [renderer1] [warning] UNRESPONSIVE extension host, 'ms-toolsai.jupyter' took 99% of 152.119ms, saved PROFILE here: 'file:///tmp/exthost-2bb599.cpuprofile' [{"id":"ms-toolsai.jupyter","total":151240,"percentage":99}]

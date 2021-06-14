@@ -1,0 +1,53 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+Python interpreter path: ./virtual/bin/python
+Error 2021-06-11 14:15:39: getActivatedEnvironmentVariables [Error: Command failed: . /home/hamisi/pitch-app/virtual/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/pyvsc-run-isolated.py /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/printEnvVariables.py
+bash: python: command not found
+
+	at ChildProcess.exithandler (child_process.js:317:12)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Socket.<anonymous> (internal/child_process.js:439:11)
+	at Socket.emit (events.js:315:20)
+	at Pipe.<anonymous> (net.js:673:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: ". /home/hamisi/pitch-app/virtual/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/pyvsc-run-isolated.py /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/printEnvVariables.py"
+}
+Error 2021-06-11 14:15:39: getActivatedEnvironmentVariables [Error: Command failed: . /home/hamisi/pitch-app/virtual/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/pyvsc-run-isolated.py /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/printEnvVariables.py
+bash: python: command not found
+
+	at ChildProcess.exithandler (child_process.js:317:12)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Socket.<anonymous> (internal/child_process.js:439:11)
+	at Socket.emit (events.js:315:20)
+	at Pipe.<anonymous> (net.js:673:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: ". /home/hamisi/pitch-app/virtual/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/pyvsc-run-isolated.py /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/printEnvVariables.py"
+}
+Error 2021-06-11 14:15:39: getActivatedEnvironmentVariables [Error: Command failed: . /home/hamisi/pitch-app/virtual/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/pyvsc-run-isolated.py /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/printEnvVariables.py
+bash: python: command not found
+
+	at ChildProcess.exithandler (child_process.js:317:12)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Socket.<anonymous> (internal/child_process.js:439:11)
+	at Socket.emit (events.js:315:20)
+	at Pipe.<anonymous> (net.js:673:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: ". /home/hamisi/pitch-app/virtual/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/pyvsc-run-isolated.py /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/printEnvVariables.py"
+}
+Starting Pylance language server.
+> conda --version

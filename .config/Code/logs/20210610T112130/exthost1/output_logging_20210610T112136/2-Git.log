@@ -1,0 +1,24 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/hamisi/Desktop/Watchlist
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/templates/base.html
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/templates/base.html
+> git cat-file -s eae4e64b51949bc0e88e985a6e711178757b379e
+> git check-ignore -v -z --stdin
+> git config --global user.email
+> git config --global user.name
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show -s --format=%an <%ae> [%ai] 1a823d7b92b0471a50796a445a1cf17b12e1bd49
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1a823d7b92b0471a50796a445a1cf17b12e1bd49

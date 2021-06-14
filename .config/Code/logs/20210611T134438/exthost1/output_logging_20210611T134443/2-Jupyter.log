@@ -1,0 +1,35 @@
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-06-11 13:44:43: ZMQ install verified.
+Info 2021-06-11 13:44:43: id is cb8cfc19-863c-420d-823f-1fd83f3c8335
+Info 2021-06-11 13:44:44: Found existing keyfile at /home/hamisi/.config/Code/User/globalStorage/ms-toolsai.jupyter/nbsecret
+Info 2021-06-11 13:44:46: Search all interpreters /bin/python2, /bin/python3, /usr/bin/python2, /usr/bin/python3, /home/hamisi/Desktop/flask resources/Watchlist/virtual/bin/python
+Info 2021-06-11 13:44:47: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-06-11 13:44:47: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-06-11 13:44:47: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-06-11 13:44:47: Process Execution: > ~/Desktop/flask resources/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> ~/Desktop/flask resources/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+Info 2021-06-11 13:44:47: Process Execution: > ~/Desktop/flask resources/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> ~/Desktop/flask resources/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+Info 2021-06-11 13:44:47: Process Execution: > ~/Desktop/flask resources/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> ~/Desktop/flask resources/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+Info 2021-06-11 13:44:47: Process Execution: > ~/Desktop/flask resources/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> ~/Desktop/flask resources/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+Info 2021-06-11 13:44:47: Process Execution: > ~/Desktop/flask resources/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+> ~/Desktop/flask resources/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-06-11 13:44:47: Process Execution: > ~/Desktop/flask resources/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+> ~/Desktop/flask resources/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-06-11 14:15:36: Shutting down notebooks for 8cbc9a5f-d961-4bbe-99b3-bf87a885025c
+Info 2021-06-11 14:15:36: Disposing HostJupyterExecution eaa45576-adb0-4b13-8942-e05a0cbcdb3a
+Info 2021-06-11 14:15:36: Disposing super HostJupyterExecution eaa45576-adb0-4b13-8942-e05a0cbcdb3a
+Info 2021-06-11 14:15:36: Disposing HostJupyterExecution eaa45576-adb0-4b13-8942-e05a0cbcdb3a
+Info 2021-06-11 14:15:36: Finished disposing HostJupyterExecution  eaa45576-adb0-4b13-8942-e05a0cbcdb3a
+Info 2021-06-11 14:15:36: Disposing HostJupyterExecution eaa45576-adb0-4b13-8942-e05a0cbcdb3a
+Info 2021-06-11 14:15:36: Finished disposing HostJupyterExecution  eaa45576-adb0-4b13-8942-e05a0cbcdb3a
+Info 2021-06-11 14:15:36: Getting live share API during dispose HostJupyterExecution eaa45576-adb0-4b13-8942-e05a0cbcdb3a
+Info 2021-06-11 14:15:36: Detaching HostJupyterExecution eaa45576-adb0-4b13-8942-e05a0cbcdb3a
+Info 2021-06-11 14:15:36: Cleaning up server cache eaa45576-adb0-4b13-8942-e05a0cbcdb3a
+Info 2021-06-11 14:15:36: Finished disposing HostJupyterExecution  eaa45576-adb0-4b13-8942-e05a0cbcdb3a

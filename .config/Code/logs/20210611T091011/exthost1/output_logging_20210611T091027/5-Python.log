@@ -1,0 +1,22 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+Python interpreter path: ./virtual/bin/python
+Error 2021-06-11 09:10:34: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file '/home/hamisi/Desktop/Watchlist/.vscode/settings.json' (Error: Unable to resolve non-existing file '/home/hamisi/Desktop/Watchlist/.vscode/settings.json')
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:156171)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async y.readText (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.842923320/out/client/extension.js:9:344717)
+	at async p.doesFileNeedToBeFixed (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.842923320/out/client/extension.js:59:581560)
+	at async /home/hamisi/.vscode/extensions/ms-python.python-2021.5.842923320/out/client/extension.js:59:580687
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.842923320/out/client/extension.js:59:580633)
+	at async p.updateTestSettings (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.842923320/out/client/extension.js:59:580260)] {
+  code: 'FileNotFound'
+}
+Starting Pylance language server.
+> conda --version

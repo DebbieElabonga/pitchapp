@@ -1,0 +1,10 @@
+[2021-06-11 22:00:54.062] [main] [info] update#setState idle
+[2021-06-11 22:01:24.066] [main] [info] update#setState checking for updates
+[2021-06-11 22:01:24.263] [main] [info] update#setState available for download
+[2021-06-13 19:47:19.950] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: workbench.explorer.treeViewState Length: 502
+[2021-06-13 19:49:37.998] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: workbench.explorer.treeViewState Length: 437
+[2021-06-13 19:49:53.388] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: workbench.explorer.views.state Length: 612
+[2021-06-13 19:49:58.092] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: workbench.explorer.views.state Length: 613
+[2021-06-13 19:50:01.620] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?),(?,?),(?,?),(?,?)). Details: Keys: __$__targetStorageMarker, lifecyle.lastShutdownReason, scm.viewState, workbench.explorer.treeViewState, codelens/cache2 Length: 3103
+[2021-06-13 19:50:01.801] [main] [error] [storage state.vscdb] backup(): Error: ENOENT: no such file or directory, stat '/home/hamisi/.config/Code/User/globalStorage/state.vscdb'
+[2021-06-13 19:50:01.820] [main] [error] Error: ENOENT: no such file or directory, unlink '/home/hamisi/.config/Code/User/workspaceStorage/6b7d4574769ebedf4deef98566cc7b25/state.vscdb'

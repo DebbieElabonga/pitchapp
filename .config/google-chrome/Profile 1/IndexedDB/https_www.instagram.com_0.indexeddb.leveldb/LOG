@@ -1,0 +1,5 @@
+2021/05/01-16:00:28.222 10fec Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/01-16:01:10.968 10d3a Level-0 table #5: started
+2021/05/01-16:01:10.975 10d3a Level-0 table #5: 796 bytes OK
+2021/05/01-16:01:10.979 10d3a Delete type=0 #3
+2021/05/01-16:01:10.980 10d3a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

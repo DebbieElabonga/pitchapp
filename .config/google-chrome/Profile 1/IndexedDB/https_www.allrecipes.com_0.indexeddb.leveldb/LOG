@@ -1,0 +1,5 @@
+2021/03/31-04:12:18.022 4de2 Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_www.allrecipes.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/31-04:12:20.269 4de2 Level-0 table #5: started
+2021/03/31-04:12:20.273 4de2 Level-0 table #5: 360 bytes OK
+2021/03/31-04:12:20.279 4de2 Delete type=0 #3
+2021/03/31-04:12:20.279 4de2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

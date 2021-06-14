@@ -1,0 +1,5 @@
+2021/04/24-17:56:49.181 300d Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_www.pexels.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/24-17:57:01.899 300d Level-0 table #5: started
+2021/04/24-17:57:01.912 300d Level-0 table #5: 2968 bytes OK
+2021/04/24-17:57:01.918 300d Delete type=0 #3
+2021/04/24-17:57:01.918 300d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/06/12-12:37:09.010 651d Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/12-12:37:09.011 651d Recovering log #166
+2021/06/12-12:37:09.043 651d Reusing old log /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000166.log 
+2021/06/12-19:10:31.262 6c8c Level-0 table #171: started
+2021/06/12-19:10:31.284 6c8c Level-0 table #171: 6170 bytes OK
+2021/06/12-19:10:31.288 6c8c Delete type=0 #166
+2021/06/12-19:10:31.289 6c8c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/12-19:10:31.289 6c8c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01,\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x000\x001\x000\x001\x00L\x007\x004\x000\x00P\x004\x00-\x00U\x000\x001\x00R\x00T\x009\x002\x00L\x00K\x00D\x00L' @ 7793 : 0
+2021/06/12-19:10:31.289 6c8c Compacting 1@1 + 1@2 files
+2021/06/12-19:10:31.294 6c8c Generated table #172@1: 24 keys, 867 bytes
+2021/06/12-19:10:31.294 6c8c Compacted 1@1 + 1@2 files => 867 bytes
+2021/06/12-19:10:31.298 6c8c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/12-19:10:31.299 6c8c Delete type=2 #171
+2021/06/12-19:10:31.299 6c8c Delete type=2 #168
+2021/06/12-19:10:31.315 6c8c Manual compaction at level-1 from '\x00\x01\x01\x03\x01,\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x000\x001\x000\x001\x00L\x007\x004\x000\x00P\x004\x00-\x00U\x000\x001\x00R\x00T\x009\x002\x00L\x00K\x00D\x00L' @ 7793 : 0 .. (end); will stop at (end)

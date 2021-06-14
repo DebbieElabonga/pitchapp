@@ -1,0 +1,5 @@
+2021/05/05-16:39:49.339 15d6 Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_www.brightermonday.co.ke_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/05-17:40:14.555 1d1f Level-0 table #5: started
+2021/05/05-17:40:14.600 1d1f Level-0 table #5: 19936 bytes OK
+2021/05/05-17:40:14.700 1d1f Delete type=0 #3
+2021/05/05-17:40:14.700 1d1f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

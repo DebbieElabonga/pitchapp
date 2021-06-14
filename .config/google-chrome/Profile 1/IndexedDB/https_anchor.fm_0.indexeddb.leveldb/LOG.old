@@ -1,0 +1,8 @@
+2021/04/29-09:21:54.615 28e9 Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_anchor.fm_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/29-09:21:54.615 28e9 Recovering log #4
+2021/04/29-09:21:54.615 28e9 Reusing old log /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_anchor.fm_0.indexeddb.leveldb/000004.log 
+2021/04/29-09:23:07.342 28e9 Level-0 table #8: started
+2021/04/29-09:23:07.342 28e9 Level-0 table #8: 0 bytes OK
+2021/04/29-09:23:07.348 28e9 Delete type=0 #4
+2021/04/29-09:23:07.348 28e9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/29-09:23:07.348 28e9 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

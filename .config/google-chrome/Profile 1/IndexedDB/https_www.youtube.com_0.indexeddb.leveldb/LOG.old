@@ -1,0 +1,13 @@
+2021/05/31-20:49:51.536 b8b Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/31-20:49:51.536 b8b Recovering log #242
+2021/05/31-20:49:51.747 b8b Reusing old log /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000242.log 
+2021/05/31-20:50:05.308 b58 Level-0 table #247: started
+2021/05/31-20:50:05.336 b58 Level-0 table #247: 186672 bytes OK
+2021/05/31-20:50:05.345 b58 Delete type=0 #242
+2021/05/31-20:50:05.348 b58 Manual compaction at level-0 from '\x00!\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/31-21:00:38.374 136d Compacting 1@1 + 1@2 files
+2021/05/31-21:00:38.384 136d Generated table #248@1: 125 keys, 3444 bytes
+2021/05/31-21:00:38.384 136d Compacted 1@1 + 1@2 files => 3444 bytes
+2021/05/31-21:00:38.388 136d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/31-21:00:38.389 136d Delete type=2 #244
+2021/05/31-21:00:38.389 136d Delete type=2 #247

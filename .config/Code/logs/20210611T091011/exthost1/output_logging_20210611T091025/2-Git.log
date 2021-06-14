@@ -1,0 +1,157 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/hamisi/Desktop/Watchlist
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/main/views.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/main/views.py
+> git cat-file -s 5c628386f2aebd3908f597a84d83adee25a425e7
+> git config --global user.email
+> git config --global user.name
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show -s --format=%an <%ae> [%ai] 1a823d7b92b0471a50796a445a1cf17b12e1bd49
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 1a823d7b92b0471a50796a445a1cf17b12e1bd49
+> git show --textconv :app/requests.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/requests.py
+> git cat-file -s f5e7dc1e64ef127e5ea178bd0b48a57b1060bdf8
+> git show --textconv :app/main/views.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/main/views.py
+> git cat-file -s 5c628386f2aebd3908f597a84d83adee25a425e7
+> git show --textconv :app/requests.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/requests.py
+> git cat-file -s f5e7dc1e64ef127e5ea178bd0b48a57b1060bdf8
+> git show --textconv :app/main/views.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/main/views.py
+> git cat-file -s 5c628386f2aebd3908f597a84d83adee25a425e7
+> git show --textconv :app/requests.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/requests.py
+> git cat-file -s f5e7dc1e64ef127e5ea178bd0b48a57b1060bdf8
+> git show --textconv :app/main/views.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/main/views.py
+> git cat-file -s 5c628386f2aebd3908f597a84d83adee25a425e7
+> git check-ignore -v -z --stdin
+> git show --textconv :app/requests.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/requests.py
+> git cat-file -s f5e7dc1e64ef127e5ea178bd0b48a57b1060bdf8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :tests/test_user.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/tests/test_user.py
+> git show --textconv :config.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/config.py
+> git cat-file -s f6602f98ef452dbb1fbba2584532a06a250f8c85
+> git show --textconv :manage.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/manage.py
+> git cat-file -s e10b660d8eff60167cc9aa8a08c5c3ef9a89febf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.psql_history
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/.psql_history
+> git check-ignore -v -z --stdin
+> git show --textconv :app/auth/__init__.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/auth/__init__.py
+> git show --textconv :app/auth/forms.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/auth/forms.py
+> git show --textconv :.psql_history
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/.psql_history
+> git show --textconv :app/main/forms.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/main/forms.py
+> git cat-file -s 0eb1c82c1a817d30e6d7b28c95ba7917c15a4569
+> git show --textconv :app/auth/forms.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/auth/forms.py
+> git show --textconv :app/auth/views.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/auth/views.py
+> git show --textconv :app/main/__init__.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/main/__init__.py
+> git cat-file -s 5d09786067cc5f880a0aae3551dd695caa921889
+> git show --textconv :app/main/errors.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/main/errors.py
+> git cat-file -s 26e15511f0f1bc4eefd25c3bdfd393bf9d234295
+> git show --textconv :app/main/forms.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/main/forms.py
+> git cat-file -s 0eb1c82c1a817d30e6d7b28c95ba7917c15a4569
+> git show --textconv :app/main/views.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/app/main/views.py
+> git cat-file -s 5c628386f2aebd3908f597a84d83adee25a425e7
+> git show --textconv :config.py
+> git ls-files --stage -- /home/hamisi/Desktop/Watchlist/config.py
+> git cat-file -s f6602f98ef452dbb1fbba2584532a06a250f8c85
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

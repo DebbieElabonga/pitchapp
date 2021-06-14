@@ -1,0 +1,6 @@
+[Info  - 10:30:51 PM] Pylance language server 2021.6.0 (pyright 209c8040) starting
+[Info  - 10:30:51 PM] Server root directory: /home/hamisi/.vscode/extensions/ms-python.vscode-pylance-2021.6.0/dist
+[Info  - 10:30:51 PM] Background analysis(1) root directory: /home/hamisi/.vscode/extensions/ms-python.vscode-pylance-2021.6.0/dist
+[Info  - 10:30:51 PM] Background analysis(1) started
+[Error - 10:30:52 PM] Exception received when installing recursive file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Error - 10:30:52 PM] Exception received when installing recursive file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js

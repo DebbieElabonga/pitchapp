@@ -1,0 +1,21 @@
+2021/06/11-21:15:41.907 a69 Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2021/06/11-21:15:41.907 a69 Recovering log #606
+2021/06/11-21:15:42.125 a69 Reusing old log /home/hamisi/.config/google-chrome/Profile 1/Sync Data/LevelDB/000606.log 
+2021/06/11-21:40:57.066 17e2 Level-0 table #610: started
+2021/06/11-21:40:57.076 17e2 Level-0 table #610: 103196 bytes OK
+2021/06/11-21:40:57.081 17e2 Delete type=0 #606
+2021/06/11-21:40:57.081 17e2 Compacting 4@0 + 1@1 files
+2021/06/11-21:40:57.092 17e2 Generated table #611@0: 183 keys, 18499 bytes
+2021/06/11-21:40:57.092 17e2 Compacted 4@0 + 1@1 files => 18499 bytes
+2021/06/11-21:40:57.095 17e2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/06/11-21:40:57.096 17e2 Delete type=2 #605
+2021/06/11-21:40:57.096 17e2 Delete type=2 #602
+2021/06/11-21:40:57.096 17e2 Delete type=2 #607
+2021/06/11-21:40:57.096 17e2 Delete type=2 #610
+2021/06/11-21:40:57.096 17e2 Delete type=2 #600
+2021/06/11-23:05:30.211 28e7 Level-0 table #613: started
+2021/06/11-23:05:30.222 28e7 Level-0 table #613: 95763 bytes OK
+2021/06/11-23:05:30.227 28e7 Delete type=0 #609
+2021/06/12-23:49:53.030 a2c2 Level-0 table #615: started
+2021/06/12-23:49:53.056 a2c2 Level-0 table #615: 102020 bytes OK
+2021/06/12-23:49:53.084 a2c2 Delete type=0 #612

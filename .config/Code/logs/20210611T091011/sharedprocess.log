@@ -1,0 +1,7 @@
+[2021-06-11 09:10:23.868] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-06-11 09:10:42.254] [sharedprocess] [info] Downloaded extension: ms-python.python /home/hamisi/.config/Code/CachedExtensionVSIXs/ms-python.python-2021.5.926500501
+[2021-06-11 09:10:58.131] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-06-11 09:11:25.686] [sharedprocess] [info] Extracted extension to /home/hamisi/.vscode/extensions/.6274f1c3-cdeb-49eb-a050-3a662c52674a: ms-python.python
+[2021-06-11 09:11:25.725] [sharedprocess] [info] Renamed to /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501
+[2021-06-11 09:11:25.732] [sharedprocess] [info] Installation completed. ms-python.python
+[2021-06-11 09:11:25.928] [sharedprocess] [info] Extensions installed successfully: ms-python.python

@@ -1,0 +1,6 @@
+2021/05/26-17:38:57.971 52d7 Creating DB /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_realpython.com_0.indexeddb.leveldb since it was missing.
+2021/05/26-17:38:58.001 52d7 Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_realpython.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/26-17:39:18.340 560c Level-0 table #5: started
+2021/05/26-17:39:18.345 560c Level-0 table #5: 5494 bytes OK
+2021/05/26-17:39:18.349 560c Delete type=0 #3
+2021/05/26-17:39:18.349 560c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

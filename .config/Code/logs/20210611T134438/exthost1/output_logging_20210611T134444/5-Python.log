@@ -1,0 +1,66 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+Python interpreter path: ./virtual/bin/python
+Error 2021-06-11 13:44:47: getActivatedEnvironmentVariables [Error: Command failed: . "/home/hamisi/Desktop/flask resources/Watchlist/virtual/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/pyvsc-run-isolated.py /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/printEnvVariables.py
+bash: python: command not found
+
+	at ChildProcess.exithandler (child_process.js:317:12)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Socket.<anonymous> (internal/child_process.js:439:11)
+	at Socket.emit (events.js:315:20)
+	at Pipe.<anonymous> (net.js:673:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: `. "/home/hamisi/Desktop/flask resources/Watchlist/virtual/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/pyvsc-run-isolated.py /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/printEnvVariables.py`
+}
+Error 2021-06-11 13:44:47: getActivatedEnvironmentVariables [Error: Command failed: . "/home/hamisi/Desktop/flask resources/Watchlist/virtual/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/pyvsc-run-isolated.py /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/printEnvVariables.py
+bash: python: command not found
+
+	at ChildProcess.exithandler (child_process.js:317:12)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Socket.<anonymous> (internal/child_process.js:439:11)
+	at Socket.emit (events.js:315:20)
+	at Pipe.<anonymous> (net.js:673:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: `. "/home/hamisi/Desktop/flask resources/Watchlist/virtual/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/pyvsc-run-isolated.py /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/printEnvVariables.py`
+}
+Error 2021-06-11 13:44:47: getActivatedEnvironmentVariables [Error: Command failed: . "/home/hamisi/Desktop/flask resources/Watchlist/virtual/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/pyvsc-run-isolated.py /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/printEnvVariables.py
+bash: python: command not found
+
+	at ChildProcess.exithandler (child_process.js:317:12)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Socket.<anonymous> (internal/child_process.js:439:11)
+	at Socket.emit (events.js:315:20)
+	at Pipe.<anonymous> (net.js:673:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: `. "/home/hamisi/Desktop/flask resources/Watchlist/virtual/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/pyvsc-run-isolated.py /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/pythonFiles/printEnvVariables.py`
+}
+Error 2021-06-11 13:44:47: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file '/home/hamisi/Desktop/flask resources/Watchlist/.vscode/settings.json' (Error: Unable to resolve non-existing file '/home/hamisi/Desktop/flask resources/Watchlist/.vscode/settings.json')
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:156171)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async y.readText (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:344717)
+	at async p.doesFileNeedToBeFixed (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:581560)
+	at async /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:580687
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:580633)
+	at async p.updateTestSettings (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:580260)] {
+  code: 'FileNotFound'
+}
+Starting Pylance language server.
+> conda --version
+Error 2021-06-11 14:15:36: Error while running worker[Worker 2]. undefined
+Error 2021-06-11 14:15:36: Error while running worker[Worker 1]. undefined

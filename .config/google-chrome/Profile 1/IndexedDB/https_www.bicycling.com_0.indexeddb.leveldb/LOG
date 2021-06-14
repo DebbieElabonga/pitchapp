@@ -1,0 +1,15 @@
+2021/04/26-21:18:56.515 4fa3 Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_www.bicycling.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/26-21:18:56.515 4fa3 Recovering log #4
+2021/04/26-21:18:56.515 4fa3 Reusing old log /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_www.bicycling.com_0.indexeddb.leveldb/000004.log 
+2021/04/26-21:21:37.199 5365 Level-0 table #8: started
+2021/04/26-21:21:37.237 5365 Level-0 table #8: 3211 bytes OK
+2021/04/26-21:21:37.242 5365 Delete type=0 #4
+2021/04/26-21:21:37.243 5365 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/26-21:21:37.243 5365 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xc0\x08~\xf6\x90wB\x00\x01H\x00g\x00l\x00i\x00m\x00m\x00e\x00r\x00-\x00s\x00t\x00a\x00t\x00i\x00c\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00g\x00l\x00i\x00m\x00m\x00e\x00r\x00.\x00h\x00e\x00a\x00r\x00s\x00t\x00a\x00p\x00p\x00s\x00.\x00c\x00o\x00m\x00/\x00s\x00t\x00a\x00t\x00i\x00c\x00/\x00g\x00l\x00i\x00m\x00m\x00e\x00r\x00.\x002\x00f\x007\x00a\x00e\x001\x00a\x003\x00.\x00j\x00s' @ 208 : 1
+2021/04/26-21:21:37.243 5365 Compacting 1@1 + 1@2 files
+2021/04/26-21:21:37.247 5365 Generated table #9@1: 42 keys, 1771 bytes
+2021/04/26-21:21:37.247 5365 Compacted 1@1 + 1@2 files => 1771 bytes
+2021/04/26-21:21:37.252 5365 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/26-21:21:37.253 5365 Delete type=2 #5
+2021/04/26-21:21:37.253 5365 Delete type=2 #8
+2021/04/26-21:21:37.253 5365 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xc0\x08~\xf6\x90wB\x00\x01H\x00g\x00l\x00i\x00m\x00m\x00e\x00r\x00-\x00s\x00t\x00a\x00t\x00i\x00c\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00g\x00l\x00i\x00m\x00m\x00e\x00r\x00.\x00h\x00e\x00a\x00r\x00s\x00t\x00a\x00p\x00p\x00s\x00.\x00c\x00o\x00m\x00/\x00s\x00t\x00a\x00t\x00i\x00c\x00/\x00g\x00l\x00i\x00m\x00m\x00e\x00r\x00.\x002\x00f\x007\x00a\x00e\x001\x00a\x003\x00.\x00j\x00s' @ 208 : 1 .. (end); will stop at (end)

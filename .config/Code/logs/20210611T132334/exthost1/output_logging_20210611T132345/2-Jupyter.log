@@ -1,0 +1,26 @@
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-06-11 13:23:46: ZMQ install verified.
+Info 2021-06-11 13:23:47: id is 812ba31f-95a2-4787-ad66-a2e3472016e8
+Info 2021-06-11 13:23:47: Found existing keyfile at /home/hamisi/.config/Code/User/globalStorage/ms-toolsai.jupyter/nbsecret
+Info 2021-06-11 13:23:49: Search all interpreters /home/hamisi/Desktop/Watchlist/virtual/bin/python, /bin/python2, /bin/python3, /usr/bin/python2, /usr/bin/python3
+Info 2021-06-11 13:23:50: Process Execution: > ~/Desktop/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> ~/Desktop/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+Info 2021-06-11 13:23:50: Process Execution: > ~/Desktop/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+> ~/Desktop/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-06-11 13:23:50: Process Execution: > ~/Desktop/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> ~/Desktop/Watchlist/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+Info 2021-06-11 13:41:36: Shutting down notebooks for 9c8465d8-f7fa-452a-bd26-c4e5b645d3c3
+Info 2021-06-11 13:41:36: Disposing HostJupyterExecution 561271b1-7161-4392-9d56-bc17e6e9e26a
+Info 2021-06-11 13:41:36: Disposing super HostJupyterExecution 561271b1-7161-4392-9d56-bc17e6e9e26a
+Info 2021-06-11 13:41:36: Disposing HostJupyterExecution 561271b1-7161-4392-9d56-bc17e6e9e26a
+Info 2021-06-11 13:41:36: Finished disposing HostJupyterExecution  561271b1-7161-4392-9d56-bc17e6e9e26a
+Info 2021-06-11 13:41:36: Disposing HostJupyterExecution 561271b1-7161-4392-9d56-bc17e6e9e26a
+Info 2021-06-11 13:41:36: Finished disposing HostJupyterExecution  561271b1-7161-4392-9d56-bc17e6e9e26a
+Info 2021-06-11 13:41:36: Getting live share API during dispose HostJupyterExecution 561271b1-7161-4392-9d56-bc17e6e9e26a
+Info 2021-06-11 13:41:36: Detaching HostJupyterExecution 561271b1-7161-4392-9d56-bc17e6e9e26a
+Info 2021-06-11 13:41:36: Cleaning up server cache 561271b1-7161-4392-9d56-bc17e6e9e26a
+Info 2021-06-11 13:41:36: Finished disposing HostJupyterExecution  561271b1-7161-4392-9d56-bc17e6e9e26a

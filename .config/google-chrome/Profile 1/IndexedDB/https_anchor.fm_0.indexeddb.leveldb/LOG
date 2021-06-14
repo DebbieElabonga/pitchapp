@@ -1,0 +1,15 @@
+2021/04/29-10:10:22.745 301a Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_anchor.fm_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/29-10:10:22.745 301a Recovering log #7
+2021/04/29-10:10:22.746 301a Reusing old log /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_anchor.fm_0.indexeddb.leveldb/000007.log 
+2021/04/30-08:49:27.160 eb92 Level-0 table #11: started
+2021/04/30-08:49:27.166 eb92 Level-0 table #11: 190 bytes OK
+2021/04/30-08:49:27.170 eb92 Delete type=0 #7
+2021/04/30-08:49:27.170 eb92 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/30-08:49:27.170 eb92 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 87 : 1
+2021/04/30-08:49:27.170 eb92 Compacting 1@1 + 1@2 files
+2021/04/30-08:49:27.176 eb92 Generated table #12@1: 29 keys, 782 bytes
+2021/04/30-08:49:27.176 eb92 Compacted 1@1 + 1@2 files => 782 bytes
+2021/04/30-08:49:27.180 eb92 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/30-08:49:27.181 eb92 Delete type=2 #5
+2021/04/30-08:49:27.181 eb92 Delete type=2 #11
+2021/04/30-08:49:27.181 eb92 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 87 : 1 .. (end); will stop at (end)

@@ -1,0 +1,1007 @@
+[2021-06-11 22:00:57.186] [exthost] [info] extension host started
+[2021-06-11 22:00:57.432] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-11 22:00:57.432] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-11 22:00:57.455] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-11 22:00:57.456] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-06-11 22:00:57.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-11 22:00:57.459] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-06-11 22:00:57.488] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2021-06-11 22:00:57.488] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hamisi/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2021-06-11 22:00:57.509] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory {"startup":true,"extensionId":{"value":"donjayamanne.githistory","_lower":"donjayamanne.githistory"},"activationEvent":"*"}
+[2021-06-11 22:00:57.510] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hamisi/.vscode/extensions/donjayamanne.githistory-0.6.16/dist/src/extension
+[2021-06-11 22:00:57.540] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2021-06-11 22:00:57.540] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hamisi/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.4360/out/prod/extension-prod
+[2021-06-11 22:00:57.884] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-06-11 22:00:57.884] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hamisi/.vscode/extensions/pkief.material-icon-theme-4.7.0/dist/extension
+[2021-06-11 22:00:57.909] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-06-11 22:00:57.909] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hamisi/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-06-11 22:00:58.812] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-11 22:00:58.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-11 22:00:59.039] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-11 22:00:59.039] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-06-11 22:00:59.208] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1382
+[2021-06-11 22:00:59.254] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-11 22:00:59.255] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-11 22:01:01.662] [exthost] [info] eager extensions activated
+[2021-06-11 22:01:01.694] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-06-11 22:01:01.695] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-11 22:01:01.706] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-06-11 22:01:01.706] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-11 22:01:01.709] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-06-11 22:01:01.709] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-06-11 22:01:01.710] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-06-11 22:01:01.710] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hamisi/.vscode/extensions/esbenp.prettier-vscode-6.4.0/dist/extension
+[2021-06-11 22:01:01.987] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1382
+[2021-06-11 22:01:24.249] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1382
+[2021-06-11 22:02:47.781] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-06-11 22:02:47.781] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hamisi/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/out/client/extension
+[2021-06-11 22:02:48.563] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-06-11 22:02:48.563] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension
+[2021-06-11 22:02:49.561] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-06-11 22:02:49.561] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hamisi/.vscode/extensions/ms-python.vscode-pylance-2021.6.1/dist/extension.bundle.js
+[2021-06-11 22:05:30.456] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-11 22:05:30.456] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-12 10:47:33.305] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-06-12 10:47:33.307] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-06-12 10:47:58.466] [exthost] [info] ExtensionService#_doActivateExtension vscode.simple-browser {"startup":false,"extensionId":{"value":"vscode.simple-browser","_lower":"vscode.simple-browser"},"activationEvent":"onOpenExternalUri:http"}
+[2021-06-12 10:47:58.466] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/simple-browser/dist/extension
+[2021-06-12 11:00:02.931] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 11:00:02.931] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-12 11:13:00.212] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 11:13:00.212] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-12 11:14:59.792] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 11:14:59.792] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-12 11:15:05.052] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 11:15:05.052] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-12 11:31:01.577] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 11:31:01.577] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+[2021-06-12 11:32:44.624] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 11:32:44.624] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+	at runNextTicks (internal/process/task_queues.js:58:5)
+	at processImmediate (internal/timers.js:434:9)
+[2021-06-12 11:50:36.102] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 11:50:36.102] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-12 11:50:37.290] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 11:50:37.290] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-12 12:05:20.909] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:05:20.910] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-12 12:07:21.264] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:07:21.264] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-12 12:09:06.551] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-12 12:09:06.551] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-06-12 12:09:06.556] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-12 12:09:06.556] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-06-12 12:09:06.657] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-12 12:09:06.657] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-06-12 12:19:57.201] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:19:57.201] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-12 12:24:32.212] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:24:32.212] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-12 12:24:52.951] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:24:52.952] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-12 12:24:52.962] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:24:52.962] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-12 12:26:55.945] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:26:55.945] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-12 12:28:34.693] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:28:34.693] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-12 12:31:43.086] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:31:43.088] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-12 12:31:43.090] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:31:43.090] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-12 12:32:34.778] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:32:34.778] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-12 12:32:34.787] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:32:34.787] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-12 12:33:42.874] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:33:42.875] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-12 12:33:58.615] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:33:58.615] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-12 12:33:58.615] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:33:58.615] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-12 12:34:55.137] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:34:55.137] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-12 12:38:25.582] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:38:25.582] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-12 12:40:42.079] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 12:40:42.079] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-12 20:18:08.101] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 20:18:08.101] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-12 20:37:22.536] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 20:37:22.536] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-12 22:03:37.548] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 22:03:37.548] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-12 22:06:10.798] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 22:06:10.799] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-12 22:22:16.442] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 22:22:16.442] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-12 22:22:16.706] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 22:22:16.706] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-12 22:22:17.006] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 22:22:17.006] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-12 22:28:14.110] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 22:28:14.110] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-12 23:40:26.890] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 23:40:26.890] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-12 23:40:27.286] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 23:40:27.286] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-12 23:41:44.657] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 23:41:44.657] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-12 23:48:01.786] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-12 23:48:01.786] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 11:26:49.905] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:26:49.905] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 11:27:29.942] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:27:29.942] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 11:27:31.701] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:27:31.702] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 11:27:36.349] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:27:36.349] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 11:27:42.856] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:27:42.856] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 11:27:46.228] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:27:46.228] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 11:27:48.378] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:27:48.378] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 11:27:48.438] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:27:48.438] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-13 11:27:49.120] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:27:49.120] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 11:28:02.239] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:28:02.239] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 11:28:03.215] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:28:03.216] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 11:28:03.935] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:28:03.935] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 11:28:04.349] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:28:04.349] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 11:28:08.660] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:28:08.660] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 11:28:10.110] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:28:10.110] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 11:33:40.390] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:33:40.391] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 11:47:41.614] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:47:41.615] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 11:50:22.352] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:50:22.353] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 11:50:50.398] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:50:50.398] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 11:51:04.926] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:51:04.926] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 11:56:20.860] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:56:20.861] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 11:57:23.820] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 11:57:23.820] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 13:23:44.610] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 13:23:44.610] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 13:29:24.774] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 13:29:24.774] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 13:40:05.351] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 13:40:05.351] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 13:43:20.473] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 13:43:20.474] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 13:43:35.787] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 13:43:35.787] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 13:54:46.419] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 13:54:46.419] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 13:54:50.055] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 13:54:50.055] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 13:56:56.245] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 13:56:56.245] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 14:00:20.531] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:00:20.531] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 14:14:54.339] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:14:54.340] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-13 14:16:39.851] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:16:39.851] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 14:16:39.855] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:16:39.855] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 14:27:01.700] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:27:01.700] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 14:27:02.304] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:27:02.304] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 14:27:02.613] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:27:02.613] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 14:27:32.148] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:27:32.148] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 14:27:48.767] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:27:48.767] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-13 14:28:47.980] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:28:47.980] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-13 14:28:50.652] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:28:50.652] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-13 14:29:36.259] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:29:36.259] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 14:45:39.190] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:45:39.190] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 14:46:42.084] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:46:42.085] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 14:47:56.255] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:47:56.255] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 14:48:06.941] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:48:06.941] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 14:48:07.321] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:48:07.321] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 14:48:10.501] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:48:10.502] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 14:48:13.842] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:48:13.842] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 14:48:14.387] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:48:14.387] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 14:48:16.796] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:48:16.796] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 14:48:22.652] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:48:22.652] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 14:48:26.209] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:48:26.209] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 14:48:28.102] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:48:28.102] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 14:48:33.984] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:48:33.984] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 14:48:36.496] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:48:36.496] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 14:49:34.489] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 14:49:34.489] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-13 15:25:04.861] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 15:25:04.861] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 15:25:05.246] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 15:25:05.247] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 15:34:15.272] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 15:34:15.272] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 15:34:15.673] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 15:34:15.673] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 15:34:16.967] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 15:34:16.967] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26689)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:26638)
+	at new n (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:76:13328)
+	at H (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:59:143565)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148239
+[2021-06-13 15:35:58.348] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 15:35:58.349] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 15:36:14.078] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 15:36:14.079] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 16:03:06.270] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 16:03:06.270] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 16:06:50.020] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 16:06:50.020] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 16:07:08.402] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 16:07:08.402] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 16:07:08.831] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 16:07:08.831] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 16:11:24.714] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 16:11:24.714] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 16:17:58.948] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 16:17:58.948] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 16:21:42.723] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 16:21:42.723] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 16:34:48.750] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 16:34:48.751] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 16:35:38.138] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 16:35:38.138] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 16:35:47.351] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 16:35:47.351] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 16:37:25.471] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 16:37:25.471] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 16:49:29.764] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 16:49:29.764] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 16:50:08.772] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 16:50:08.772] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 16:50:09.059] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 16:50:09.059] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 16:56:55.813] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 16:56:55.813] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 17:13:39.667] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:13:39.667] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-13 17:13:40.296] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:13:40.297] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 17:14:00.900] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:14:00.901] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 17:14:16.141] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:14:16.142] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 17:16:49.547] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:16:49.547] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 17:17:15.654] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:17:15.654] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 17:20:51.214] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:20:51.214] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 17:22:07.222] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:22:07.222] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 17:29:42.137] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:29:42.138] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 17:39:09.801] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-06-13 17:39:09.803] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-06-13 17:44:33.657] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:44:33.657] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 17:44:34.563] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:44:34.563] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 17:44:34.566] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:44:34.566] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-13 17:47:33.098] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:47:33.098] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-13 17:52:04.102] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:52:04.103] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 17:55:06.936] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:55:06.936] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 17:59:27.383] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:59:27.384] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 17:59:44.276] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 17:59:44.276] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 18:01:49.278] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:01:49.279] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 18:02:07.204] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:02:07.204] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 18:02:47.018] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:02:47.019] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 18:09:13.603] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:09:13.603] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 18:09:15.193] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:09:15.193] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 18:16:40.977] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:16:40.977] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 18:16:52.043] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:16:52.043] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 18:16:52.308] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:16:52.308] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 18:19:28.998] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:19:28.999] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 18:21:59.410] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:21:59.410] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 18:21:59.416] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:21:59.416] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-13 18:22:20.560] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:22:20.560] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 18:23:27.977] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:23:27.977] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 18:26:04.229] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:26:04.229] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 18:29:52.819] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:29:52.819] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 18:29:58.740] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:29:58.740] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 18:31:47.382] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:31:47.382] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 18:31:47.701] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:31:47.701] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 18:32:18.985] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:32:18.985] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 18:38:20.578] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 18:38:20.578] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 19:03:56.077] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 19:03:56.077] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 19:14:18.640] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 19:14:18.640] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 19:18:31.025] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 19:18:31.025] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 19:19:19.627] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 19:19:19.628] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 19:21:45.411] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 19:21:45.412] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 19:22:35.044] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 19:22:35.044] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 19:36:15.363] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 19:36:15.363] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 19:36:23.352] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 19:36:23.352] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:143671
+[2021-06-13 19:41:28.590] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 19:41:28.590] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-13 19:41:55.329] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 19:41:55.329] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-13 19:41:55.702] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 19:41:55.702] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-13 19:43:35.913] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 19:43:35.914] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-13 19:43:36.217] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 19:43:36.217] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:151190
+[2021-06-13 19:43:40.288] [exthost] [error] [ms-python.python] provider FAILED
+[2021-06-13 19:43:40.289] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183478)
+	at E.handleFailedRequest (/home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:183329)
+	at /home/hamisi/.vscode/extensions/ms-python.python-2021.5.926500501/out/client/extension.js:9:148317
+[2021-06-13 19:50:01.646] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-06-13 19:50:02.775] [exthost] [info] exiting with code 0

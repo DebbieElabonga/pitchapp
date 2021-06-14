@@ -1,0 +1,218 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/hamisi/pitch-app
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/hamisi/pitch-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git config --global user.email
+> git config --global user.name
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/hamisi/pitch-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show -s --format=%an <%ae> [%ai] 536058f590e024efcf62f728eec756157a3d5385
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/auth/__init__.py
+> git ls-files --stage -- /home/hamisi/pitch-app/app/auth/__init__.py
+> git cat-file -s 505d6d846ca25afdab524096370962b2a362e0a3
+> git show --textconv :app/auth/forms.py
+> git ls-files --stage -- /home/hamisi/pitch-app/app/auth/forms.py
+> git cat-file -s c6e21f1dc32b25d51073d32463d727dd31835cbb
+> git show --textconv :app/auth/views.py
+> git ls-files --stage -- /home/hamisi/pitch-app/app/auth/views.py
+> git cat-file -s 49425530fdc8cceaf7d6a8937f250b5b0ff59258
+> git check-ignore -v -z --stdin
+> git show --textconv :app/main/__init__.py
+> git ls-files --stage -- /home/hamisi/pitch-app/app/main/__init__.py
+> git cat-file -s 178708cec8c4134354491c2b1ec9eeccce5ada99
+> git show --textconv :app/main/errors.py
+> git ls-files --stage -- /home/hamisi/pitch-app/app/main/errors.py
+> git cat-file -s 22dee95a42b010f9a0e12cf19c1b86113e857916
+> git show --textconv :app/main/forms.py
+> git ls-files --stage -- /home/hamisi/pitch-app/app/main/forms.py
+> git cat-file -s 95d03f2fbc4bc5b706ea7455f0fbc6f65c47611e
+> git show --textconv :app/main/views.py
+> git ls-files --stage -- /home/hamisi/pitch-app/app/main/views.py
+> git cat-file -s 7dcfa4d0c50f9752426102e0f8ad3c820db61c82
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/templates/base.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/base.html
+> git cat-file -s 149a39dab4003a96c9274472efb71ff8ff8bcb10
+> git show --textconv :app/templates/fourOwfour.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/fourOwfour.html
+> git cat-file -s 8678c7056f12ecc66f095cfa002a1c5bc201eff3
+> git show --textconv :app/templates/index.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/index.html
+> git cat-file -s 04e7550a07b626c6d8b0b50b2330b3d3bff9d502
+> git show --textconv :app/templates/macros.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/macros.html
+> git cat-file -s 162e3d0ad4555e48b9f8036e88fad8c9555f3ac1
+> git show --textconv :app/templates/main.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/main.html
+> git cat-file -s 6b5b4e07f522d118d6f2c17bafe6cd087dad1905
+> git show --textconv :app/templates/navbar.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/navbar.html
+> git cat-file -s 06b8cfcc418b6c8dd0fde154ea260bec2a5145e1
+> git show --textconv :app/templates/new_pitch.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/new_pitch.html
+> git cat-file -s 37f3a2b1fcacb4e3395475407673a2ea555610f5
+> git show --textconv :app/templates/new_review.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/new_review.html
+> git cat-file -s 82acf2e35e60031b3f1b9ddc40356af6fac148b6
+> git show --textconv :app/templates/pitch.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/pitch.html
+> git cat-file -s cebaed5b30db99840b054fcc3f3b0fe33725fc82
+> git show --textconv :app/templates/posted_by.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/posted_by.html
+> git cat-file -s dca1dec7b80c848a1ea5b6edf1250a8b166beca6
+> git show --textconv :app/templates/review.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/review.html
+> git cat-file -s db610690db5859be27cab41895de48f2497b7d63
+> git show --textconv :app/requests.py
+> git ls-files --stage -- /home/hamisi/pitch-app/app/requests.py
+> git cat-file -s d744c4d42fb0478575697b13e4ff8058d38ccd17
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :migrations/versions/ba3d34503079_.py
+> git ls-files --stage -- /home/hamisi/pitch-app/migrations/versions/ba3d34503079_.py
+> git cat-file -s c90eb65ec424c795279f5748621222ed74c1cd57
+> git show --textconv :app/templates/base.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/base.html
+> git cat-file -s 149a39dab4003a96c9274472efb71ff8ff8bcb10
+> git show --textconv :app/templates/fourOwfour.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/fourOwfour.html
+> git cat-file -s 8678c7056f12ecc66f095cfa002a1c5bc201eff3
+> git show --textconv :app/templates/index.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/index.html
+> git cat-file -s 04e7550a07b626c6d8b0b50b2330b3d3bff9d502
+> git show --textconv :app/templates/macros.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/macros.html
+> git cat-file -s 162e3d0ad4555e48b9f8036e88fad8c9555f3ac1
+> git show --textconv :app/templates/main.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/main.html
+> git cat-file -s 6b5b4e07f522d118d6f2c17bafe6cd087dad1905
+> git show --textconv :app/templates/macros.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/macros.html
+> git cat-file -s 162e3d0ad4555e48b9f8036e88fad8c9555f3ac1
+> git show --textconv :migrations/versions/ba3d34503079_.py
+> git ls-files --stage -- /home/hamisi/pitch-app/migrations/versions/ba3d34503079_.py
+> git cat-file -s c90eb65ec424c795279f5748621222ed74c1cd57
+> git show --textconv :migrations/alembic.ini
+> git ls-files --stage -- /home/hamisi/pitch-app/migrations/alembic.ini
+> git cat-file -s f8ed4801f78bcb83cc6acb589508c1b24eda297a
+> git show --textconv :migrations/versions/ba3d34503079_.py
+> git ls-files --stage -- /home/hamisi/pitch-app/migrations/versions/ba3d34503079_.py
+> git cat-file -s c90eb65ec424c795279f5748621222ed74c1cd57
+> git show --textconv :app/templates/macros.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/macros.html
+> git cat-file -s 162e3d0ad4555e48b9f8036e88fad8c9555f3ac1
+> git show --textconv :app/templates/main.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/main.html
+> git cat-file -s 6b5b4e07f522d118d6f2c17bafe6cd087dad1905
+> git show --textconv :app/templates/navbar.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/navbar.html
+> git cat-file -s 06b8cfcc418b6c8dd0fde154ea260bec2a5145e1
+> git show --textconv :app/templates/new_pitch.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/new_pitch.html
+> git cat-file -s 37f3a2b1fcacb4e3395475407673a2ea555610f5
+> git show --textconv :app/templates/new_review.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/new_review.html
+> git cat-file -s 82acf2e35e60031b3f1b9ddc40356af6fac148b6
+> git show --textconv :app/templates/pitch.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/pitch.html
+> git cat-file -s cebaed5b30db99840b054fcc3f3b0fe33725fc82
+> git show --textconv :app/templates/posted_by.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/posted_by.html
+> git cat-file -s dca1dec7b80c848a1ea5b6edf1250a8b166beca6
+> git show --textconv :app/templates/review.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/review.html
+> git cat-file -s db610690db5859be27cab41895de48f2497b7d63
+> git show --textconv :app/email.py
+> git ls-files --stage -- /home/hamisi/pitch-app/app/email.py
+> git cat-file -s a82683443dfb7932a460381a144b0ea8d50e840d
+> git show --textconv :app/models.py
+> git ls-files --stage -- /home/hamisi/pitch-app/app/models.py
+> git cat-file -s 09b38926969fd656c60f80731623aeec6bc5d428
+> git show --textconv :app/requests.py
+> git ls-files --stage -- /home/hamisi/pitch-app/app/requests.py
+> git cat-file -s d744c4d42fb0478575697b13e4ff8058d38ccd17
+> git show --textconv :app/models.py
+> git ls-files --stage -- /home/hamisi/pitch-app/app/models.py
+> git cat-file -s 09b38926969fd656c60f80731623aeec6bc5d428
+> git show --textconv :migrations/versions/ba3d34503079_.py
+> git ls-files --stage -- /home/hamisi/pitch-app/migrations/versions/ba3d34503079_.py
+> git cat-file -s c90eb65ec424c795279f5748621222ed74c1cd57
+> git show --textconv :app/templates/base.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/base.html
+> git cat-file -s 149a39dab4003a96c9274472efb71ff8ff8bcb10
+> git show --textconv :app/templates/profile/update_pitch.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/profile/update_pitch.html
+> git cat-file -s a81ee5a9b10f9d6b2819b3de82c8319e4097ae05
+> git show --textconv :app/templates/profile/update.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/profile/update.html
+> git cat-file -s ad5068c95b3e0d211873cd9c8cc755444e3d3d8c
+> git show --textconv :app/templates/base.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/base.html
+> git cat-file -s 149a39dab4003a96c9274472efb71ff8ff8bcb10
+> git show --textconv :app/templates/fourOwfour.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/fourOwfour.html
+> git cat-file -s 8678c7056f12ecc66f095cfa002a1c5bc201eff3
+> git show --textconv :app/templates/index.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/index.html
+> git cat-file -s 04e7550a07b626c6d8b0b50b2330b3d3bff9d502
+> git show --textconv :app/templates/fourOwfour.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/fourOwfour.html
+> git cat-file -s 8678c7056f12ecc66f095cfa002a1c5bc201eff3
+> git show --textconv :app/templates/index.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/index.html
+> git cat-file -s 04e7550a07b626c6d8b0b50b2330b3d3bff9d502
+> git check-ignore -v -z --stdin
+> git show --textconv :app/static/css/main.css
+> git ls-files --stage -- /home/hamisi/pitch-app/app/static/css/main.css
+> git cat-file -s b51858e49e7227df37903d02067babbe23e81a85
+> git show --textconv :app/templates/index.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/index.html
+> git cat-file -s 04e7550a07b626c6d8b0b50b2330b3d3bff9d502
+> git show --textconv :app/templates/macros.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/macros.html
+> git cat-file -s 162e3d0ad4555e48b9f8036e88fad8c9555f3ac1
+> git show --textconv :app/templates/index.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/index.html
+> git cat-file -s 04e7550a07b626c6d8b0b50b2330b3d3bff9d502
+> git show --textconv :app/templates/macros.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/macros.html
+> git cat-file -s 162e3d0ad4555e48b9f8036e88fad8c9555f3ac1
+> git show --textconv :app/templates/main.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/main.html
+> git cat-file -s 6b5b4e07f522d118d6f2c17bafe6cd087dad1905
+> git show --textconv :app/templates/navbar.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/navbar.html
+> git cat-file -s 06b8cfcc418b6c8dd0fde154ea260bec2a5145e1
+> git show --textconv :app/templates/new_pitch.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/new_pitch.html
+> git cat-file -s 37f3a2b1fcacb4e3395475407673a2ea555610f5
+> git show --textconv :app/templates/main.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/main.html
+> git cat-file -s 6b5b4e07f522d118d6f2c17bafe6cd087dad1905
+> git show --textconv :app/templates/index.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/index.html
+> git cat-file -s 04e7550a07b626c6d8b0b50b2330b3d3bff9d502
+> git show --textconv :app/templates/new_pitch.html
+> git ls-files --stage -- /home/hamisi/pitch-app/app/templates/new_pitch.html
+> git cat-file -s 37f3a2b1fcacb4e3395475407673a2ea555610f5

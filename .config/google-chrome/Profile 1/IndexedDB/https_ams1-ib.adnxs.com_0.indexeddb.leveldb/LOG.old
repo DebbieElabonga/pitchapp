@@ -1,0 +1,5 @@
+2021/05/11-18:03:57.736 f809 Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_ams1-ib.adnxs.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/11-18:04:01.271 f594 Level-0 table #5: started
+2021/05/11-18:04:01.275 f594 Level-0 table #5: 365 bytes OK
+2021/05/11-18:04:01.282 f594 Delete type=0 #3
+2021/05/11-18:04:01.282 f594 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

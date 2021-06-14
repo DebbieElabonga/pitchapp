@@ -1,0 +1,5 @@
+2021/04/26-21:16:55.360 4ffd Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_www.bicycling.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/26-21:17:43.772 4ffe Level-0 table #5: started
+2021/04/26-21:17:43.776 4ffe Level-0 table #5: 3479 bytes OK
+2021/04/26-21:17:43.781 4ffe Delete type=0 #3
+2021/04/26-21:17:43.782 4ffe Manual compaction at level-0 from (begin) .. (end); will stop at (end)

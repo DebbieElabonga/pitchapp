@@ -1,0 +1,23 @@
+2021/06/04-15:56:50.681 6a64 Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/04-15:56:50.683 6a64 Recovering log #1118
+2021/06/04-15:56:50.706 6a64 Reusing old log /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/001118.log 
+2021/06/04-15:57:35.861 65c3 Compacting 1@1 + 8@2 files
+2021/06/04-15:57:36.024 65c3 Generated table #1121@1: 6841 keys, 2131718 bytes
+2021/06/04-15:57:36.231 65c3 Generated table #1122@1: 2067 keys, 2137813 bytes
+2021/06/04-15:57:36.341 65c3 Generated table #1123@1: 2097 keys, 2123230 bytes
+2021/06/04-15:57:36.550 65c3 Generated table #1124@1: 2106 keys, 2120116 bytes
+2021/06/04-15:57:36.655 65c3 Generated table #1125@1: 2197 keys, 2121024 bytes
+2021/06/04-15:57:36.741 65c3 Generated table #1126@1: 2130 keys, 2124512 bytes
+2021/06/04-15:57:36.817 65c3 Generated table #1127@1: 2135 keys, 2124215 bytes
+2021/06/04-15:57:36.935 65c3 Generated table #1128@1: 17128 keys, 2041014 bytes
+2021/06/04-15:57:36.935 65c3 Compacted 1@1 + 8@2 files => 16923642 bytes
+2021/06/04-15:57:36.938 65c3 compacted to: files[ 0 0 8 0 0 0 0 ]
+2021/06/04-15:57:36.939 65c3 Delete type=2 #1113
+2021/06/04-15:57:36.939 65c3 Delete type=2 #1116
+2021/06/04-15:57:36.939 65c3 Delete type=2 #1114
+2021/06/04-15:57:36.939 65c3 Delete type=2 #1119
+2021/06/04-15:57:36.939 65c3 Delete type=2 #1115
+2021/06/04-15:57:36.939 65c3 Delete type=2 #1110
+2021/06/04-15:57:36.939 65c3 Delete type=2 #1109
+2021/06/04-15:57:36.939 65c3 Delete type=2 #1111
+2021/06/04-15:57:36.939 65c3 Delete type=2 #1112

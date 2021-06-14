@@ -1,0 +1,5 @@
+2021/05/11-18:04:01.155 f594 Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_www.enjoysharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/11-18:04:24.981 f48f Level-0 table #5: started
+2021/05/11-18:04:24.999 f48f Level-0 table #5: 356 bytes OK
+2021/05/11-18:04:25.006 f48f Delete type=0 #3
+2021/05/11-18:04:25.006 f48f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

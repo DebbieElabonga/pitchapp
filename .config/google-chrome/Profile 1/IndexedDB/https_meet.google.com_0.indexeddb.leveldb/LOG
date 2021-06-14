@@ -1,0 +1,15 @@
+2021/06/09-21:17:04.546 3c4b Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/09-21:17:04.547 3c4b Recovering log #402
+2021/06/09-21:17:04.547 3c4b Reusing old log /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000402.log 
+2021/06/09-21:17:36.553 4437 Level-0 table #407: started
+2021/06/09-21:17:36.557 4437 Level-0 table #407: 8158 bytes OK
+2021/06/09-21:17:36.561 4437 Delete type=0 #402
+2021/06/09-21:17:36.562 4437 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/09-21:17:36.562 4437 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01=\x00B\x00x\x00U\x00l\x00h\x00f\x00:\x00/\x00_\x00/\x00M\x00e\x00e\x00t\x00i\x00n\x00g\x00s\x00U\x00i\x00:\x00b\x00o\x00q\x00-\x00r\x00t\x00c\x00.\x00M\x00e\x00e\x00t\x00i\x00n\x00g\x00s\x00U\x00i\x00.\x00e\x00n\x00.\x00f\x00E\x00O\x00L\x00e\x00h\x001\x00U\x00j\x00A\x00k\x00.\x002\x000\x002\x000\x00.\x00O' @ 4864 : 1
+2021/06/09-21:17:36.562 4437 Compacting 1@1 + 1@2 files
+2021/06/09-21:17:36.567 4437 Generated table #408@1: 38 keys, 3594 bytes
+2021/06/09-21:17:36.567 4437 Compacted 1@1 + 1@2 files => 3594 bytes
+2021/06/09-21:17:36.570 4437 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/09-21:17:36.570 4437 Delete type=2 #407
+2021/06/09-21:17:36.571 4437 Delete type=2 #404
+2021/06/09-21:17:36.571 4437 Manual compaction at level-1 from '\x00\x02\x01\x02\x01=\x00B\x00x\x00U\x00l\x00h\x00f\x00:\x00/\x00_\x00/\x00M\x00e\x00e\x00t\x00i\x00n\x00g\x00s\x00U\x00i\x00:\x00b\x00o\x00q\x00-\x00r\x00t\x00c\x00.\x00M\x00e\x00e\x00t\x00i\x00n\x00g\x00s\x00U\x00i\x00.\x00e\x00n\x00.\x00f\x00E\x00O\x00L\x00e\x00h\x001\x00U\x00j\x00A\x00k\x00.\x002\x000\x002\x000\x00.\x00O' @ 4864 : 1 .. (end); will stop at (end)

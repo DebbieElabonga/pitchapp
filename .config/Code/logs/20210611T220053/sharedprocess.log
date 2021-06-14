@@ -1,0 +1,8 @@
+[2021-06-11 22:01:36.040] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-06-13 13:06:26.411] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2021-06-13 13:06:48.384] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /home/hamisi/.config/Code/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.4419
+[2021-06-13 13:06:49.867] [sharedprocess] [info] Extracted extension to /home/hamisi/.vscode/extensions/.c99a6877-4d24-43d5-8d7f-5217d61abd59: ms-vsliveshare.vsliveshare
+[2021-06-13 13:06:49.918] [sharedprocess] [info] Renamed to /home/hamisi/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.4419
+[2021-06-13 13:06:49.922] [sharedprocess] [info] Installation completed. ms-vsliveshare.vsliveshare
+[2021-06-13 13:06:49.943] [sharedprocess] [info] Extensions installed successfully: ms-vsliveshare.vsliveshare
+[2021-06-13 19:00:25.144] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

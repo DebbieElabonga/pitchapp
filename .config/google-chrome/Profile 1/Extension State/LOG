@@ -1,0 +1,39 @@
+2021/06/11-21:15:44.568 a63 Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/Extension State/MANIFEST-000001
+2021/06/11-21:15:44.570 a63 Recovering log #427
+2021/06/11-21:15:45.039 a63 Reusing old log /home/hamisi/.config/google-chrome/Profile 1/Extension State/000427.log 
+2021/06/11-21:19:56.561 116e Level-0 table #431: started
+2021/06/11-21:19:56.645 116e Level-0 table #431: 2159928 bytes OK
+2021/06/11-21:19:56.651 116e Delete type=0 #427
+2021/06/11-21:19:56.652 116e Compacting 4@0 + 1@1 files
+2021/06/11-21:19:56.819 116e Generated table #432@0: 3 keys, 4814 bytes
+2021/06/11-21:19:56.819 116e Compacted 4@0 + 1@1 files => 4814 bytes
+2021/06/11-21:19:56.823 116e compacted to: files[ 0 1 0 0 0 0 0 ]
+2021/06/11-21:19:56.824 116e Delete type=2 #428
+2021/06/11-21:19:56.824 116e Delete type=2 #420
+2021/06/11-21:19:56.824 116e Delete type=2 #422
+2021/06/11-21:19:56.824 116e Delete type=2 #431
+2021/06/11-21:19:56.824 116e Delete type=2 #425
+2021/06/12-00:05:52.891 2db5 Level-0 table #434: started
+2021/06/12-00:05:52.971 2db5 Level-0 table #434: 2164921 bytes OK
+2021/06/12-00:05:52.998 2db5 Delete type=0 #430
+2021/06/12-19:10:31.444 6d2b Level-0 table #436: started
+2021/06/12-19:10:31.533 6d2b Level-0 table #436: 2189059 bytes OK
+2021/06/12-19:10:31.540 6d2b Delete type=0 #433
+2021/06/12-22:25:45.953 908a Level-0 table #438: started
+2021/06/12-22:25:46.118 908a Level-0 table #438: 2188413 bytes OK
+2021/06/12-22:25:46.142 908a Delete type=0 #435
+2021/06/13-13:06:54.030 c96f Level-0 table #440: started
+2021/06/13-13:06:54.110 c96f Level-0 table #440: 2196079 bytes OK
+2021/06/13-13:06:54.119 c96f Delete type=0 #437
+2021/06/13-13:06:54.120 c96f Compacting 4@0 + 1@1 files
+2021/06/13-13:06:54.315 c96f Generated table #441@0: 3 keys, 4814 bytes
+2021/06/13-13:06:54.315 c96f Compacted 4@0 + 1@1 files => 4814 bytes
+2021/06/13-13:06:54.319 c96f compacted to: files[ 0 1 0 0 0 0 0 ]
+2021/06/13-13:06:54.319 c96f Delete type=2 #440
+2021/06/13-13:06:54.319 c96f Delete type=2 #434
+2021/06/13-13:06:54.319 c96f Delete type=2 #438
+2021/06/13-13:06:54.319 c96f Delete type=2 #436
+2021/06/13-13:06:54.319 c96f Delete type=2 #432
+2021/06/13-16:18:22.273 f123 Level-0 table #443: started
+2021/06/13-16:18:22.375 f123 Level-0 table #443: 2185541 bytes OK
+2021/06/13-16:18:22.401 f123 Delete type=0 #439

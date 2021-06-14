@@ -1,0 +1,21 @@
+[2021-06-09 22:29:14.501] [exthost] [info] extension host started
+[2021-06-09 22:29:15.031] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-09 22:29:15.032] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-09 22:29:15.074] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-06-09 22:29:15.080] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hamisi/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/out/client/extension
+[2021-06-09 22:29:15.358] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-09 22:29:15.358] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-06-09 22:29:15.362] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-09 22:29:15.363] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-06-09 22:29:15.413] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2021-06-09 22:29:15.413] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hamisi/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2021-06-09 22:29:15.443] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory {"startup":true,"extensionId":{"value":"donjayamanne.githistory","_lower":"donjayamanne.githistory"},"activationEvent":"*"}
+[2021-06-09 22:29:15.444] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hamisi/.vscode/extensions/donjayamanne.githistory-0.6.16/dist/src/extension
+[2021-06-09 22:29:15.479] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2021-06-09 22:29:15.479] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hamisi/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.4360/out/prod/extension-prod
+[2021-06-09 22:29:15.827] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-06-09 22:29:15.828] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hamisi/.vscode/extensions/pkief.material-icon-theme-4.7.0/dist/extension
+[2021-06-09 22:29:15.841] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-06-09 22:29:15.841] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hamisi/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-06-09 22:29:16.211] [exthost] [info] extension host terminating: parent process 22975 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -3)
+[2021-06-09 22:29:17.212] [exthost] [info] exiting with code 0

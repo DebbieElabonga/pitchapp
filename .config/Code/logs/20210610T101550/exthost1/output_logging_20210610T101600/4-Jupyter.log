@@ -1,0 +1,35 @@
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-06-10 10:16:00: ZMQ install verified.
+Info 2021-06-10 10:16:00: id is e9c3ee74-058c-4501-822d-31e61515a873
+Info 2021-06-10 10:16:02: Found existing keyfile at /home/hamisi/.config/Code/User/globalStorage/ms-toolsai.jupyter/nbsecret
+Info 2021-06-10 10:16:04: Search all interpreters /home/hamisi/Desktop/NewsAPI/virtual/bin/python, /bin/python2, /bin/python3, /usr/bin/python2, /usr/bin/python3
+Info 2021-06-10 10:16:04: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-06-10 10:16:04: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-06-10 10:16:04: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-06-10 10:16:04: Process Execution: > ~/Desktop/NewsAPI/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> ~/Desktop/NewsAPI/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+Info 2021-06-10 10:16:04: Process Execution: > ~/Desktop/NewsAPI/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> ~/Desktop/NewsAPI/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+Info 2021-06-10 10:16:04: Process Execution: > ~/Desktop/NewsAPI/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+> ~/Desktop/NewsAPI/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-06-10 10:16:04: Process Execution: > ~/Desktop/NewsAPI/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+> ~/Desktop/NewsAPI/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-06-10 10:16:04: Process Execution: > ~/Desktop/NewsAPI/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> ~/Desktop/NewsAPI/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+Info 2021-06-10 10:16:04: Process Execution: > ~/Desktop/NewsAPI/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> ~/Desktop/NewsAPI/virtual/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+Info 2021-06-10 11:21:19: Shutting down notebooks for cef08257-8ecd-48f0-8f92-4af445822bcc
+Info 2021-06-10 11:21:19: Disposing HostJupyterExecution be7caa14-b916-4860-8efa-e6c0c28d29f5
+Info 2021-06-10 11:21:19: Disposing super HostJupyterExecution be7caa14-b916-4860-8efa-e6c0c28d29f5
+Info 2021-06-10 11:21:19: Disposing HostJupyterExecution be7caa14-b916-4860-8efa-e6c0c28d29f5
+Info 2021-06-10 11:21:19: Finished disposing HostJupyterExecution  be7caa14-b916-4860-8efa-e6c0c28d29f5
+Info 2021-06-10 11:21:19: Disposing HostJupyterExecution be7caa14-b916-4860-8efa-e6c0c28d29f5
+Info 2021-06-10 11:21:19: Finished disposing HostJupyterExecution  be7caa14-b916-4860-8efa-e6c0c28d29f5
+Info 2021-06-10 11:21:19: Getting live share API during dispose HostJupyterExecution be7caa14-b916-4860-8efa-e6c0c28d29f5
+Info 2021-06-10 11:21:19: Detaching HostJupyterExecution be7caa14-b916-4860-8efa-e6c0c28d29f5
+Info 2021-06-10 11:21:19: Cleaning up server cache be7caa14-b916-4860-8efa-e6c0c28d29f5
+Info 2021-06-10 11:21:19: Finished disposing HostJupyterExecution  be7caa14-b916-4860-8efa-e6c0c28d29f5

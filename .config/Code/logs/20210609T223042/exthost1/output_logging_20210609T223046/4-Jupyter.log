@@ -1,0 +1,35 @@
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-06-09 22:30:46: ZMQ install verified.
+Info 2021-06-09 22:30:46: id is ca37dafd-4208-4e52-b729-3d050c57784b
+Info 2021-06-09 22:30:47: Found existing keyfile at /home/hamisi/.config/Code/User/globalStorage/ms-toolsai.jupyter/nbsecret
+Info 2021-06-09 22:30:48: Search all interpreters /home/hamisi/Desktop/News-App/virtual/bin/python, /bin/python2, /bin/python3, /usr/bin/python2, /usr/bin/python3
+Info 2021-06-09 22:30:48: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-06-09 22:30:48: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-06-09 22:30:48: Cached data exists getEnvironmentVariables, <No Resource>
+Info 2021-06-09 22:30:48: Process Execution: > /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+> /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-06-09 22:30:48: Process Execution: > /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+> /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-06-09 22:30:48: Process Execution: > /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+Info 2021-06-09 22:30:48: Process Execution: > /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+Info 2021-06-09 22:30:48: Process Execution: > /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+Info 2021-06-09 22:30:48: Process Execution: > /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /usr/bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+Info 2021-06-09 23:51:52: Shutting down notebooks for a849b93d-202f-4fcd-afc0-357b8f70d4df
+Info 2021-06-09 23:51:52: Disposing HostJupyterExecution 220a28a2-abb6-41c0-ae75-2f6dfe387549
+Info 2021-06-09 23:51:52: Disposing super HostJupyterExecution 220a28a2-abb6-41c0-ae75-2f6dfe387549
+Info 2021-06-09 23:51:52: Disposing HostJupyterExecution 220a28a2-abb6-41c0-ae75-2f6dfe387549
+Info 2021-06-09 23:51:52: Finished disposing HostJupyterExecution  220a28a2-abb6-41c0-ae75-2f6dfe387549
+Info 2021-06-09 23:51:52: Disposing HostJupyterExecution 220a28a2-abb6-41c0-ae75-2f6dfe387549
+Info 2021-06-09 23:51:52: Finished disposing HostJupyterExecution  220a28a2-abb6-41c0-ae75-2f6dfe387549
+Info 2021-06-09 23:51:52: Getting live share API during dispose HostJupyterExecution 220a28a2-abb6-41c0-ae75-2f6dfe387549
+Info 2021-06-09 23:51:52: Detaching HostJupyterExecution 220a28a2-abb6-41c0-ae75-2f6dfe387549
+Info 2021-06-09 23:51:52: Cleaning up server cache 220a28a2-abb6-41c0-ae75-2f6dfe387549
+Info 2021-06-09 23:51:52: Finished disposing HostJupyterExecution  220a28a2-abb6-41c0-ae75-2f6dfe387549

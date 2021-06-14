@@ -1,0 +1,7 @@
+[2021-06-10 10:16:00.187] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-06-10 10:16:03.694] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/hamisi/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.6.1
+[2021-06-10 10:16:14.473] [sharedprocess] [info] Extracted extension to /home/hamisi/.vscode/extensions/.f6a4448c-f0e2-4dcd-9bf0-c055f75bf1f1: ms-python.vscode-pylance
+[2021-06-10 10:16:14.548] [sharedprocess] [info] Renamed to /home/hamisi/.vscode/extensions/ms-python.vscode-pylance-2021.6.1
+[2021-06-10 10:16:14.555] [sharedprocess] [info] Installation completed. ms-python.vscode-pylance
+[2021-06-10 10:16:14.674] [sharedprocess] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-06-10 10:16:35.619] [sharedprocess] [info] Starting to clean up unused language packs.

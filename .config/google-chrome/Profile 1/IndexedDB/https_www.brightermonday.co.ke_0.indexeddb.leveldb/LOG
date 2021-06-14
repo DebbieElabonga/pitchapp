@@ -1,0 +1,15 @@
+2021/05/05-17:46:41.785 2384 Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_www.brightermonday.co.ke_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/05-17:46:41.785 2384 Recovering log #4
+2021/05/05-17:46:41.786 2384 Reusing old log /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_www.brightermonday.co.ke_0.indexeddb.leveldb/000004.log 
+2021/05/05-17:47:00.791 2455 Level-0 table #8: started
+2021/05/05-17:47:00.888 2455 Level-0 table #8: 3038 bytes OK
+2021/05/05-17:47:00.926 2455 Delete type=0 #4
+2021/05/05-17:47:00.927 2455 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/05-17:47:00.927 2455 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 1322 : 1
+2021/05/05-17:47:00.927 2455 Compacting 1@1 + 1@2 files
+2021/05/05-17:47:00.977 2455 Generated table #9@1: 94 keys, 2061 bytes
+2021/05/05-17:47:00.977 2455 Compacted 1@1 + 1@2 files => 2061 bytes
+2021/05/05-17:47:01.015 2455 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/05-17:47:01.015 2455 Delete type=2 #5
+2021/05/05-17:47:01.015 2455 Delete type=2 #8
+2021/05/05-17:47:01.015 2455 Manual compaction at level-1 from '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 1322 : 1 .. (end); will stop at (end)

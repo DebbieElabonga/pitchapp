@@ -1,0 +1,5 @@
+2021/04/12-15:26:54.852 354b Reusing MANIFEST /home/hamisi/.config/google-chrome/Profile 1/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/12-15:30:53.610 362e Level-0 table #5: started
+2021/04/12-15:30:53.613 362e Level-0 table #5: 1264 bytes OK
+2021/04/12-15:30:53.618 362e Delete type=0 #3
+2021/04/12-15:30:53.618 362e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

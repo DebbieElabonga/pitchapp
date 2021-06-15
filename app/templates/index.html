@@ -4,7 +4,6 @@
 {% block styles%}
     {{super()}}
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="{{url_for('static',filename='css/index.css')}}">
     {% endblock%}
 {% block content%}
 <div class="container" style="background-color: blue;"></div>
@@ -16,7 +15,7 @@
                 <li class="jumbotron " style="padding-left:40px ; list-style-type: none; background-color: rgb(245, 212, 225);">                 
                     <div class="card mb-6 bg-dark text-white">
                         <div class="card-body">
-                            <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a0e0427e-b98b-4c35-b16b-294c3ea875ec/d5vqaxr-d3e2a4bf-5492-45a1-bfac-9ea740f5246c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYTBlMDQyN2UtYjk4Yi00YzM1LWIxNmItMjk0YzNlYTg3NWVjXC9kNXZxYXhyLWQzZTJhNGJmLTU0OTItNDVhMS1iZmFjLTllYTc0MGY1MjQ2Yy5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.1J6UvVBnhtfaZmm3JXLeGXE-sZB2eGI69P760NRGVUM" alt="" style="width:32%; float: left;">
+                            <img src="https://data.whicdn.com/images/308445281/original.gif" alt="" style="width:34%; float: left;">
                             <h2 class="card-title" style="color:rgba(190, 78, 100, 0.911)"> {{pitch.pitch_category}}</h2>
                             <h4><span></span><a href="{{url_for('main.posted',username=pitch.user.username)}}">By: {{pitch.user.username}}</a></h4>
                             <p class="card-text" style="color:rgba(94, 68, 73, 0.945)">{{pitch.pitch}}</p>
